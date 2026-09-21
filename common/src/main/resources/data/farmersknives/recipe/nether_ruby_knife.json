@@ -14,14 +14,13 @@
   },
   "result": {
     "id": "farmersknives:nether_ruby_knife"
-+  },
-+  "fabric:load_conditions": [
-+    {
-+      "condition": "fabric:all_mods_loaded",
-+      "values": [
-+        "betternether"
-+      ]
-+    }
-+  ]
+  },
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+     "values": [
+        "betternether"
+      ]
+    }
+  ]
  }
-}
