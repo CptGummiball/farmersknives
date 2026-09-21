@@ -12,13 +12,13 @@
   "template": {
     "item": "minecraft:netherite_upgrade_smithing_template"
   },
-+  "fabric:load_conditions": [
-+    {
-+      "condition": "fabric:all_mods_loaded",
-+      "values": [
-+        "advancednetherite"
-+      ]
-+    }
-+  ]
+  "fabric:load_conditions": [
+    {
+     "condition": "fabric:all_mods_loaded",
+      "values": [
+       "advancednetherite"
+      ]
+    }
+  ]
  }
 }
